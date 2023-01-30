@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsauravsharan&theme=gitdimmed" alt="iamsauravsharan" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [Discount App](https://github.com/iAmSauravSharan/hackerskeyboard)
+- 🔭 I’m currently working on [SuperPower⚡ App](https://github.com/iAmSauravSharan/superpower)
 
 - 🌱 I’m currently exploring about **entrepreneurial side of software engineering**
 
